@@ -12,7 +12,7 @@
 	color: #46d89e;
 }
 
-.green-text:hover {
+a.green-text:hover {
 	color: #19CF86 !important;
 	text-decoration: none;
 }
