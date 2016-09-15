@@ -7,3 +7,40 @@
 	color: #b53224;
 	text-decoration: none;
 }
+
+.green-text {
+	color: #46d89e;
+}
+
+.green-text:hover {
+	color: #19CF86 !important;
+	text-decoration: none;
+}
+
+.bottom a:hover {
+	color: #9d4843 !important;
+	text-decoration: none;
+}
+
+.bottom span {
+	font-size: 13px;
+	color: #333;
+}
+
+.bottom span:hover {
+	color: #19CF86 !important;
+}
+
+.bottom a{
+	color: #c55a54 !important;
+	vertical-align:bottom;
+	padding-left: 4px;
+}
+
+svg:hover {
+	fill: #19CF86;
+}
+
+span {
+	font-size: 26px;
+}
