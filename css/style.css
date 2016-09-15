@@ -1,0 +1,9 @@
+
+.red-text {
+	color: #c55a54;
+}
+
+.red-text:hover {
+	color: #b53224;
+	text-decoration: none;
+}
