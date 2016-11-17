@@ -18,8 +18,7 @@ a.green-text:hover {
 }
 
 a {
-	-webkit-text-decoration: underline dotted #fff;
-	text-decoration: underline dotted #fff;
+	border-bottom: 2px dashed #fff;
 }
 
 .bottom a:hover {
